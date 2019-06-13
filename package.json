@@ -1,0 +1,25 @@
+{
+  "name": "vue-project",
+  "version": "1.0.0",
+  "description": "sistema unitario",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --mode development"
+  },
+  "keywords": [],
+  "author": "freyder rey",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "babel-loader": "^8.0.6",
+    "vue-loader": "^15.7.0",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.34.0",
+    "webpack-cli": "^3.3.4"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "vue": "^2.6.10"
+  }
+}
