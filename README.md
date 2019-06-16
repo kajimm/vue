@@ -1,2 +1,2 @@
-# vue
-vuejs setup
+Configuración manual de vue.js
+
