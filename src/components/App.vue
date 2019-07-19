@@ -4,11 +4,12 @@
   </div>
 </template>
 <script type="text/javascript">
-  export default {
-    data(){
-      return {
-        titulo: 'login',
-      }
-    }
+export default {
+  name: "app",
+  data() {
+    return {
+      titulo: "login"
+    };
   }
+};
 </script>
