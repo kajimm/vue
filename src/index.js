@@ -1,10 +1,13 @@
-import Vue from 'vue';
-import ejemplo from './components/App.vue';
+import Vue from "vue";
+import App from "./components/App.vue";
+import example from "./components/ejemplo.vue";
 
+Vue.config.productionTip = false;
 
 new Vue({
-  render: h => h(ejemplo),
+  el: "#app",
   components: {
-    ejemplo
+    App,
+    example
   }
-}).$mount("#app");
+});
