@@ -8,7 +8,7 @@ export default {
   name: "app",
   data() {
     return {
-      titulo: "login"
+      titulo: "Agregando comando watch"
     };
   }
 };

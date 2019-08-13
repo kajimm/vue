@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n//\n//\n//\n//\n//\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  name: \"app\",\n  data: function data() {\n    return {\n      titulo: \"login\"\n    };\n  }\n});\n\n//# sourceURL=webpack:///./src/components/App.vue?./node_modules/babel-loader/lib??ref--0!./node_modules/vue-loader/lib??vue-loader-options");
+eval("__webpack_require__.r(__webpack_exports__);\n//\n//\n//\n//\n//\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  name: \"app\",\n  data: function data() {\n    return {\n      titulo: \"Agregando comando watch\"\n    };\n  }\n});\n\n//# sourceURL=webpack:///./src/components/App.vue?./node_modules/babel-loader/lib??ref--0!./node_modules/vue-loader/lib??vue-loader-options");
 
 /***/ }),
 
