@@ -4,7 +4,8 @@
   "description": "sistema unitario",
   "main": "index.js",
   "scripts": {
-    "webpack": "webpack --mode development"
+    "webpack": "webpack --mode development",
+    "prod": "webpack --mode production"
   },
   "keywords": [],
   "author": "freyder rey",
